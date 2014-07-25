@@ -1,7 +1,7 @@
 fintp_eventswatcher
 ===================
 
-Collects events related to messages and performance from all FinTP services	
+Events Monitoring component of FinTP, collects events related to messages and performance from all FinTP services	
 
 Requirements
 ------------
@@ -14,7 +14,9 @@ Requirements
 - **fintp_udal**
 - **fintp_base**
 
-Build instructions
+See [Getting Started](http://www.fintp.org/getting-started/) to build and install this requirements
+
+Building
 ------------------
 - On Unix-like systems, **fintp_eventswatcher** uses the GNU Build System (Autotools) so we first need to generate the configuration script using:
 
@@ -26,6 +28,18 @@ Now we must run:
         make
 
 - For Windows, a Visual Studio 2010 solution is provided.
+
+Instalation
+------------
+See [Installation](https://github.com/FinTP/fintp_eventswatcher/wiki/Installation) for steps required to install Events Monitoring component
+
+Usage
+-------
+See [Usage](https://github.com/FinTP/fintp_eventswatcher/wiki/Usage) to see related configurations.
+
+Contributing
+-----
+See [How To Contribute](http://www.fintp.org/how-to-contribute) for a list of areas where help is needed.
 
 License
 -------
