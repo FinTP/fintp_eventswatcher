@@ -29,7 +29,7 @@ Now we must run:
 
 - For Windows, a Visual Studio 2010 solution is provided.
 
-Instalation
+Installation
 ------------
 See [Installation](https://github.com/FinTP/fintp_eventswatcher/wiki/Installation) for steps required to install Events Monitoring component
 
