@@ -78,7 +78,7 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
-      <AdditionalDependencies>pthreadVSE.lib;xerces-c_2D.lib;Xalan-C_1D.lib;Ws2_32.lib;fintp_transport.lib;fintp_base.lib;fintp_log.lib;fintp_utils.lib;fintp_udal.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>pthreadVSE.lib;xerces-c_2.lib;Xalan-C_1.lib;Ws2_32.lib;fintp_transport.lib;fintp_base.lib;fintp_log.lib;fintp_utils.lib;fintp_udal.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
